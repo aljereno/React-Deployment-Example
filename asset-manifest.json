@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aljereno/React-Deployment-Example.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/aljereno/React-Deployment-Example.git/static/js/main.4014ee0a.chunk.js",
+    "main.js.map": "/aljereno/React-Deployment-Example.git/static/js/main.4014ee0a.chunk.js.map",
+    "runtime-main.js": "/aljereno/React-Deployment-Example.git/static/js/runtime-main.f3c93fd5.js",
+    "runtime-main.js.map": "/aljereno/React-Deployment-Example.git/static/js/runtime-main.f3c93fd5.js.map",
+    "static/js/2.a5d3f0db.chunk.js": "/aljereno/React-Deployment-Example.git/static/js/2.a5d3f0db.chunk.js",
+    "static/js/2.a5d3f0db.chunk.js.map": "/aljereno/React-Deployment-Example.git/static/js/2.a5d3f0db.chunk.js.map",
+    "index.html": "/aljereno/React-Deployment-Example.git/index.html",
+    "precache-manifest.9bd0a0da693f294690faca2dadf902b0.js": "/aljereno/React-Deployment-Example.git/precache-manifest.9bd0a0da693f294690faca2dadf902b0.js",
+    "service-worker.js": "/aljereno/React-Deployment-Example.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/aljereno/React-Deployment-Example.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a5d3f0db.chunk.js.LICENSE.txt": "/aljereno/React-Deployment-Example.git/static/js/2.a5d3f0db.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/aljereno/React-Deployment-Example.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c93fd5.js",
+    "static/js/2.a5d3f0db.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4014ee0a.chunk.js"
+  ]
+}
